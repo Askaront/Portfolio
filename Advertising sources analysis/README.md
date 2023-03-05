@@ -1,7 +1,7 @@
 # Анализ рекламных источников игры «Космические братья»
 
 [ipynb](https://github.com/Askaront/Portfolio/blob/main/Advertising%20sources%20analysis/ad_sources.ipynb)
-[nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/main/Advertising%20sources%20analysis/ad_sources.ipynb)    
+[nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/f85f3c109c51ea85be80472a90a3a7eaaef0909a/Advertising%20sources%20analysis/ad_sources.ipynb)    
 
 ## Описание проекта
 
