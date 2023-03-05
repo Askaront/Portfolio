@@ -1,6 +1,5 @@
 # Исследование гипотез для увеличения выручки интернет-магазина
 
-[ipynb](https://github.com/Askaront/Portfolio/blob/main/Hypothesis%20analysis/hypothesis_analysis.ipynb)
 [nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/620cdd0e8e67b28ca051f3ba6247611589874881/Hypothesis%20analysis/hypothesis_analysis.ipynb)    
 
 ## Описание проекта
