@@ -1,7 +1,7 @@
 # Исследование поведения пользователей мобильного приложения магазина по продаже продуктов питания
 
 [ipynb](https://github.com/Askaront/Portfolio/blob/main/Users%20behavior%20analysis/users_behavior.ipynb)
-[nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/main/Advertising%20sources%20analysis/ad_sources.ipynb?flush_cache=true)    
+[nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/main/Users%20behavior%20analysis/users_behavior.ipynb?flush_cache=true)    
 
 ## Описание проекта
 
