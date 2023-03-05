@@ -16,7 +16,7 @@
 - **scipy**
 - **datetime**
 - **math**
-- **matplotlib.pyplot**
+- **matplotlib**
 
 ## Вывод
 
