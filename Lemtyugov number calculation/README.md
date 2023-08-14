@@ -1,6 +1,6 @@
 # Pet-проект: Расчет числа Лемтюгова для игроков Континентальной хоккейной лиги
 
-[nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/0ee34db164757fc91022d8966e4f4c200d11aa38/Users%20behavior%20analysis/users_behavior.ipynb)    
+[nbviewer](https://nbviewer.org/github/Askaront/Portfolio/blob/main/Lemtyugov%20number%20calculation/Lemtyugov_number.ipynb)
 
 ## Описание проекта
 
